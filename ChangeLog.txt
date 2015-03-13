@@ -1,0 +1,24 @@
+v4:
+Added Board Maker
+Added pass, end, and save buttons
+Added Saving
+Added Boards
+Added loading menu
+Added load board and load save submenus
+Added board and save clearing
+Added some other stuff that I can't remember...
+
+v3:
+Added larger board settings
+Added smart passing (checks to see if your pass is legal)
+
+v2:
+Added passing
+Added "you beat the game" popup
+Added quickly end
+Added better turn indicator in the score bar
+Fixed bug involving scores
+
+v1:
+Added basic turns and scoreboard
+Added tooltip for turn indication
